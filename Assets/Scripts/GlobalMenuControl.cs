@@ -23,6 +23,11 @@ public class GlobalMenuControl : MonoBehaviour {
             else
                 submenus[i].enableMovement = false;
         }
+
+        if(Input.GetButtonDown("Fire2"))
+        {
+            ChangeMenuLevel(0);
+        }
 	}
 
     public void ChangeMenuLevel(int level)
