@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9f0a9f432b360654eb9672a1baa94189
+timeCreated: 1489013950
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Eras Medium ITC
+  fontNames:
+  - Eras Medium ITC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
